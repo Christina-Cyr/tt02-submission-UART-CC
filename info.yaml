@@ -18,9 +18,9 @@ documentation:
   discord:      "Christina-Cyr"      # Your discord handle
   title:        "UART-CC"      # Project title
   description:  "UART Template"      # Short description of what your project does
-  how_it_works: ""      # Longer description of how the project works
-  how_to_test:  ""      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
-  external_hw:  ""      # Describe any external hardware needed
+  how_it_works: "You can hook this up to an arduino"      # Longer description of how the project works
+  how_to_test:  "Use an arduino"      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
+  external_hw:  "Arduino"      # Describe any external hardware needed
   language:     "wokwi" # other examples include Verilog, Amaranth, VHDL, etc
   doc_link:     ""      # URL to longer form documentation, eg the README.md in your repository
   clock_hz:     0       # Clock frequency in Hz (if required)
